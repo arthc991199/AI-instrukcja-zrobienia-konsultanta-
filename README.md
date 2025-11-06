@@ -4,6 +4,72 @@
 
 *(od pierwszego poznania, przez karmienie wiedzą, po ton odpowiedzi i protipy)*
 
+--- 
+
+## 🧠 TL;DR — *Jak pracować z AI jak z konsultantem*
+
+Ten projekt to **kompletny system współpracy z AI** w roli doradcy strategicznego — od pierwszego kontaktu po codzienną iterację decyzji.
+Celem jest, by AI **myślało razem z Tobą**, nie za Ciebie.
+
+---
+
+### 🎯 Idea
+
+Traktuj AI jak **partnera konsultacyjnego**, nie asystenta.
+Ustal rolę, ton, kontekst i zasady gry.
+Zawsze prowadź rozmowę w trybie **cel → analiza → warianty → decyzja → refleksja**.
+
+---
+
+### ⚙️ Kluczowe zasady
+
+1. **Nadaj rolę**:
+   „Bądź moim konsultantem. Mów konkretnie, krytycznie, bez kurtuazji.”
+
+2. **Podaj kontekst i cel**:
+   kim jesteś, co chcesz osiągnąć, jakie są ograniczenia i kryteria sukcesu.
+
+3. **Zlecaj zadania imperatywnie**:
+   używaj poleceń: *przeanalizuj, zaproponuj, porównaj, zarekomenduj.*
+
+4. **Wymagaj struktury i uzasadnień**:
+   zawsze: **wnioski → uzasadnienie → ryzyka → rekomendacja.**
+
+5. **Iteruj**:
+   pogłębiaj, skracaj, zmieniaj perspektywę („dodaj sceptyka”, „zrób sanity check”).
+
+6. **Zachowaj decyzyjność**:
+   AI = hipotezy i rekomendacje, Ty = decyzje i odpowiedzialność.
+
+7. **Unikaj słabości AI**:
+   przypominaj kontekst, proś o źródła, żądaj krytyki własnych wniosków.
+
+---
+
+### 🧩 Narzędzia i formaty
+
+* **Profil użytkownika** (rola, styl, wartości)
+* **Pakiet kontekstu** (cel, fakty, ryzyka, kryteria sukcesu)
+* **Szablony promptów** (diagnoza, rekomendacja, sanity check, red-team)
+* **Gotowce do codziennej pracy** (brief, kickoff, reset, kontrola jakości)
+* **Checklista jakości współpracy**
+
+---
+
+### 🧭 Efekt
+
+Dzięki tej metodzie:
+
+* AI **rozumie Twój kontekst i styl decyzji**,
+* rozmowy są **merytoryczne, iteracyjne i produktywne**,
+* Ty zyskujesz **narzędzie refleksji i akcelerator decyzji**,
+* a nie iluzję inteligentnego asystenta.
+
+---
+
+> 📘 Używaj tego przewodnika jak „Operating Manual” dla współpracy człowiek–AI:
+> raz dobrze ustaw — potem tylko iteruj, przypominaj cel i ucz AI o sobie.
+
 ---
 
 ## Spis treści

@@ -374,4 +374,14 @@ Kryteria sukcesu: …
 
 ---
 
-> **Wskazówka:** dodaj ten plik jako `README.md` w repo wiedzy zespołu i linkuj z niego wzorce promptów oraz przykłady dobrych rozmów z AI.
+## 👤 Autor i projekt
+
+**Autor:** [Artur Markiewicz](www.linkedin.com/in/artur-markiewicz)  
+📬 Mail: [m@rkiewi.cz](mailto:m@rkiewi.cz)  
+📆 Wersja: 1.0 (30.07.2025)
+
+🌐 Strona projektu: [CyberMind OS](https://powiedzcospoinformatycznemu.pl/CyberMindOS/)  
+📮 Newsletter: [https://subscribepage.io/art](https://subscribepage.io/art)  
+☕ Jeśli materiał był pomocny → [Postaw mi kawę](https://buycoffee.to/art)
+
+[![Sponsoruj](https://img.shields.io/badge/wsparcie%20projektu-Sponsoruj-ff69b4?style=for-the-badge&logo=github)](https://github.com/sponsors/arthc991199)

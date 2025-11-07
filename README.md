@@ -378,9 +378,9 @@ kontakt z autorem: m@rkiewi.cz
 
 ## 👤 Autor i projekt
 
-**Autor:** [Artur Markiewicz](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=artur-markiewicz)  
+**Autor:** [Artur Markiewicz](www.linkedin.com/in/artur-markiewicz)  
 📬 Mail: [m@rkiewi.cz](mailto:m@rkiewi.cz)  
-📆 Wersja: 1.0 (30.07.2025)
+📆 Wersja: 1.0 (06.11.2025)
 
 🌐 Strona projektu: [CyberMind OS](https://powiedzcospoinformatycznemu.pl/CyberMindOS/)  
 📮 Newsletter: [https://subscribepage.io/art](https://subscribepage.io/art)  

@@ -378,7 +378,9 @@ kontakt z autorem: m@rkiewi.cz
 
 ## 👤 Autor i projekt
 
-**Autor:** [Artur Markiewicz](www.linkedin.com/in/artur-markiewicz)  
+**Autor:** 
+
+[Artur Markiewicz](https://www.linkedin.com/in/artur-markiewicz)  
 📬 Mail: [m@rkiewi.cz](mailto:m@rkiewi.cz)  
 📆 Wersja: 1.0 (06.11.2025)
 

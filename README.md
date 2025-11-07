@@ -373,9 +373,6 @@ Kryteria sukcesu: …
 * [ ] Co kilka wiadomości przypominam cel albo robię reset.
 
 
-kontakt z autorem: m@rkiewi.cz
-
-
 ## 👤 Autor i projekt
 
 **Autor:** 
